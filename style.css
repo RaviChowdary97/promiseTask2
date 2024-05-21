@@ -1,0 +1,10 @@
+body {
+  background-color: bisque; /* Example color */
+}
+html,
+body {
+  background-color: bisque !important;
+}
+img {
+  height: 200px;
+}
